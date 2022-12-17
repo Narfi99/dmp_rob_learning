@@ -1,0 +1,6 @@
+devel_space: /home/ubuntu/catkin_ws_proj/devel
+install: false
+install_space: /home/ubuntu/catkin_ws_proj/install
+profile: default
+source_space: /home/ubuntu/catkin_ws_proj/src
+workspace: /home/ubuntu/catkin_ws_proj

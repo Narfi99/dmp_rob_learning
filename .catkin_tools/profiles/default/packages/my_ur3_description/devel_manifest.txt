@@ -1,0 +1,5 @@
+my_ur3_description
+/home/ubuntu/catkin_ws_proj/devel/.private/my_ur3_description/cmake.lock /home/ubuntu/catkin_ws_proj/devel/./cmake.lock
+/home/ubuntu/catkin_ws_proj/devel/.private/my_ur3_description/share/my_ur3_description/cmake/my_ur3_descriptionConfig-version.cmake /home/ubuntu/catkin_ws_proj/devel/share/my_ur3_description/cmake/my_ur3_descriptionConfig-version.cmake
+/home/ubuntu/catkin_ws_proj/devel/.private/my_ur3_description/share/my_ur3_description/cmake/my_ur3_descriptionConfig.cmake /home/ubuntu/catkin_ws_proj/devel/share/my_ur3_description/cmake/my_ur3_descriptionConfig.cmake
+/home/ubuntu/catkin_ws_proj/devel/.private/my_ur3_description/lib/pkgconfig/my_ur3_description.pc /home/ubuntu/catkin_ws_proj/devel/lib/pkgconfig/my_ur3_description.pc

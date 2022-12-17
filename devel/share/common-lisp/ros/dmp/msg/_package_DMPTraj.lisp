@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws_proj/devel/.private/dmp/share/common-lisp/ros/dmp/msg/_package_DMPTraj.lisp

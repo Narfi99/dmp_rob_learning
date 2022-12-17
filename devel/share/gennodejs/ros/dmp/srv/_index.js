@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws_proj/devel/.private/dmp/share/gennodejs/ros/dmp/srv/_index.js

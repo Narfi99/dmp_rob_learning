@@ -1,0 +1,9 @@
+In file included from [01m[K/home/ubuntu/catkin_ws_proj/src/dmp/src/dmp.cpp:42[m[K:
+[01m[K/home/ubuntu/catkin_ws_proj/src/dmp/include/dmp/dmp.h:47:10:[m[K [01;31m[Kfatal error: [m[Kdmp/SetActiveDMP.h: No such file or directory
+   47 | #include [01;31m[K"dmp/SetActiveDMP.h"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/dmp.dir/build.make:63: CMakeFiles/dmp.dir/src/dmp.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/Makefile2:519: CMakeFiles/dmp.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

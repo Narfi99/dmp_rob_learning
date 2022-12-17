@@ -1,0 +1,19 @@
+[  2%] [32mBuilding CXX object CMakeFiles/dmp.dir/src/dmp.cpp.o[0m
+[  2%] Built target _dmp_generate_messages_check_deps_GetDMPPlan
+[  2%] Built target _dmp_generate_messages_check_deps_SetActiveDMP
+[  2%] Built target _dmp_generate_messages_check_deps_LearnDMPFromDemo
+[  2%] Built target _dmp_generate_messages_check_deps_DMPPoint
+[  2%] Built target _dmp_generate_messages_check_deps_DMPTraj
+[  2%] Built target _dmp_generate_messages_check_deps_DMPData
+[ 47%] Built target dmp_generate_messages_lisp
+[ 47%] Built target dmp_generate_messages_cpp
+[ 50%] Built target dmp_generate_messages_eus
+[ 65%] Built target dmp_generate_messages_nodejs
+[ 85%] Built target dmp_generate_messages_py
+[ 85%] Built target dmp_generate_messages
+[ 87%] [32m[1mLinking CXX shared library /home/ubuntu/catkin_ws_proj/devel/.private/dmp/lib/libdmp.so[0m
+[ 95%] Built target dmp
+[35m[1mScanning dependencies of target dmp_server[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/dmp_server.dir/nodes/dmp_server.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ubuntu/catkin_ws_proj/devel/.private/dmp/lib/dmp/dmp_server[0m
+[100%] Built target dmp_server

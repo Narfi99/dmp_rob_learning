@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws_proj/devel/.private/dmp
+
+Name: dmp
+Description: Description of dmp
+Version: 0.0.0
+Cflags: -I/home/ubuntu/catkin_ws_proj/devel/.private/dmp/include -I/home/ubuntu/catkin_ws_proj/src/dmp/include
+Libs: -L${prefix}/lib 
+Requires: common_msgs image_common message_runtime

@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws_proj/devel/.private/my_ur3_description/share/my_ur3_description/cmake/my_ur3_descriptionConfig.cmake
